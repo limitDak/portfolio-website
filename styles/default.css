@@ -354,7 +354,7 @@ ul {
   font-size: 14px;
 }
 
-#contact-form {
+.contact-form {
   display: block;
   max-width: 600px;
   margin: 0 auto;
@@ -365,11 +365,11 @@ ul {
   margin-bottom: 50px;
 }
 
-#contact-form label {
+.contact-form label {
   line-height: 2.7em;
 }
 
-#contact-form textarea {
+.contact-form textarea {
   min-height: 100px;
   font-size: 14px;
 }
