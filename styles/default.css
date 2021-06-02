@@ -341,6 +341,7 @@ ul {
 .post-preview {
   background-color: #fff;
   padding: 15px;
+  min-height: 150px;
 }
 
 .post-title {
